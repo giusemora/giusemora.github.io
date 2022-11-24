@@ -1,0 +1,39 @@
+hr{
+    width: 1400px;
+    margin-top: 150px;
+    color: black;
+    border-color: black;
+  }
+    
+      .contatti{
+  
+        padding-left: 20px;
+       
+     }
+    
+      .contatti title{
+        font-style: italic;
+        background-color:  rgb(228, 165, 109);
+        
+      }
+    
+     .link-contact{
+      color: blue;
+        background-color: moccasin;  
+    }
+  
+  
+    a:link {
+      color: blue;
+      text-decoration: underline;
+    }
+    a:visited {
+      color: purple;
+    }
+    a:hover {
+      color: rgb(108, 97, 211);
+      text-decoration: underline;
+    }
+    a:active {
+      color: black;
+    }

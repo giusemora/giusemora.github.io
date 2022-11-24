@@ -1,0 +1,28 @@
+
+
+   .who{
+    background-color: rgb(244, 240, 240);
+    }
+    
+    article{
+      margin-top: 50px;
+      margin-left: 30px;
+      background-color: rgb(244, 240, 240);
+      border: 2px solid black;
+      padding: 50px;
+      max-width: 650px;
+      border-radius: 20px;
+      
+    }
+
+    .containersoj {
+        margin-left: 800px;
+        margin-top: -390px;
+      }
+    
+    
+      img{
+        height:150px;
+        width:150px
+      }
+    
